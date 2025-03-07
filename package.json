@@ -1,23 +1,9 @@
 {
-  "name": "aws",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "Elastic-Beanstalk-Sample-App",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xianfuhui/aws.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/xianfuhui/aws/issues"
-  },
-  "homepage": "https://github.com/xianfuhui/aws#readme",
-  "description": "",
-  "dependencies": {
-    "express": "^4.21.2"
+    "start": "node app.js"
   }
 }
